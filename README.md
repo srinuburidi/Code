@@ -1,8 +1,8 @@
-#Splitmate
+# Splitmate
 Lorem ipsum dolor sit amet consectetur adipisicing.
 Lorem ipsum dolor sit amet consectetur adipisicing.Lorem ipsum dolor sit amet consectetur adipisicing.
 
-##Foodmate
+## Foodmate
 Lorem ipsum dolor sit amet consectetur adipisicing.
 Lorem ipsum dolor sit amet consectetur adipisicing.Lorem ipsum dolor sit amet consectetur adipisicing.
 
